@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jacob/Documents/Unreal Projects/NonEuclidean_Test/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/jacob/Documents/Unreal Projects/NonEuclidean_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/TM/LU9EPQQYOTH4D2VEGKW2ZV.uasset",
+				"C:/Users/jacob/Documents/Unreal Projects/NonEuclidean_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/VO/VMN4G7K3NKKV6F8HTPHHDB.uasset",
+				"C:/Users/jacob/Documents/Unreal Projects/NonEuclidean_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK.uasset",
+				"C:/Users/jacob/Documents/Unreal Projects/NonEuclidean_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/GO/I8WEFD3RY9V3NVQLSU6QM4.uasset",
+				"C:/Users/jacob/Documents/Unreal Projects/NonEuclidean_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CL/381LM03PFI8AF9NED1SEV2.uasset",
+				"C:/Users/jacob/Documents/Unreal Projects/NonEuclidean_Test/Content/Pixels/MI_Pixels_Inst.uasset",
+				"C:/Users/jacob/Documents/Unreal Projects/NonEuclidean_Test/Content/Pixels/MM_Pixels.uasset",
+				"C:/Users/jacob/Documents/Unreal Projects/NonEuclidean_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/7S/VQIAK63GYBPL2HTBR8D78B.uasset",
+				"C:/Users/jacob/Documents/Unreal Projects/NonEuclidean_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/9A/H1S62UNRHQIJ4QAGU9SEZG.uasset",
+				"C:/Users/jacob/Documents/Unreal Projects/NonEuclidean_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/F9/VGWS8YL59CTOSNNJNHVPSI.uasset",
+				"C:/Users/jacob/Documents/Unreal Projects/NonEuclidean_Test/Content/FirstPerson/Maps/_GENERATED/jacob/Stairs_22B9ABF0.uasset"
+			]
+		}
+	]
+}
